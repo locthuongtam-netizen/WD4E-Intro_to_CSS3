@@ -2,3 +2,35 @@ body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
 }
+
+header{
+    background-color:#d9eaf7;
+}
+
+nav{
+    background-color:#bcdffb;
+}
+
+main{
+    background-color:#f5f5f5;
+    font-size:110%;
+}
+
+footer{
+    background-color:#d9eaf7;
+}
+
+li{
+    display:inline-block;
+    width:150px;
+}
+
+h1{
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', serif;
+    color:#003366;
+}
+
+p{
+    line-height:1.6;
+}
